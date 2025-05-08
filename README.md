@@ -22,6 +22,13 @@ A pop-up should indicate that a webserver has launched. If not, click the "ports
 Walk trough the Open WebUI *get started* wizzard and create an admin account. Make sure to remember your password :)
 
 ### Additional settings
+
+#### Standard model:
+In the Open WebUI **admin panel**, go to Settings -> Models
+- Click the gear icon on the upper right
+- Scroll down to 'Default Models' and select a model (e.g. `gemini-2.5-flash-preview`)  
+
+#### Embeddings model
 In the Open WebUI **admin panel**, go to Settings -> Documents -> Embedding and change the following
 - Embedding Model Engine: `https://generativelanguage.googleapis.com/v1beta/openai`
 - API Key: your Google API key

@@ -1,6 +1,6 @@
-# HAI-5014 openwebui demo
+# HAI-5014 Open WebUI demo
 
-Repo for the openwebui demo in class HAI5014
+Repo for the Open WebUI demo in class HAI5014
 
 ## Supabase
 
@@ -18,3 +18,12 @@ Repo for the openwebui demo in class HAI5014
 - Run OpenWebUI with the command `open-webui serve`
 
 A pop-up should indicate that a webserver has launched. If not, click the "ports" tab in the terminal window, and open the website.
+
+Walk trough the Open WebUI *get started* wizzard and create an admin account. Make sure to remember your password :)
+
+### Additional settings
+In the Open WebUI **admin panel**, go to Settings -> Documents -> Embedding and change the following
+- Embedding Model Engine: `https://generativelanguage.googleapis.com/v1beta/openai`
+- API Key: your Google API key
+- Embedding Model: `text-embedding-004`
+

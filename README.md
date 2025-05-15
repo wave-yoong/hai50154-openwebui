@@ -15,7 +15,7 @@ Repo for the Open WebUI demo in class HAI5014
 ## Codespace
 - Open repo in Codespaces (or Docker)
 - Check if the environment variables are set correctly by running `echo $DATABASE_URL` and `echo $PGVECTOR_DB_URL`
-- Run OpenWebUI with the command `open-webui serve`
+- Run OpenWebUI with the command `dotenv run open-webui serve`
 
 A pop-up should indicate that a webserver has launched. If not, click the "ports" tab in the terminal window, and open the website.
 

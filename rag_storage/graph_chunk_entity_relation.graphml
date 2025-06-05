@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Sungkyunkwan University (SKKU)">
+  <data key="d0">Sungkyunkwan University (SKKU)</data>
+  <data key="d1">organization</data>
+  <data key="d2">Sungkyunkwan University (SKKU) is a prominent educational institution in South Korea, hosting the International Summer Semester (ISS) for students to study global conflict.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="International Summer Semester (ISS)">
+  <data key="d0">International Summer Semester (ISS)</data>
+  <data key="d1">event</data>
+  <data key="d2">The International Summer Semester (ISS) is an academic program at SKKU focused on understanding global conflict through historical study.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Ray T. Hartman">
+  <data key="d0">Ray T. Hartman</data>
+  <data key="d1">person</data>
+  <data key="d2">Prof. Ray T. Hartman is an instructor at SKKU for the course Understanding Global Conflict, guiding students through the complexities of war and conflict.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="World War I">
+  <data key="d0">World War I</data>
+  <data key="d1">event</data>
+  <data key="d2">World War I was a global conflict that occurred from 1914 to 1918, serving as a key historical example in the study of war.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Korean War">
+  <data key="d0">Korean War</data>
+  <data key="d1">event</data>
+  <data key="d2">The Korean War was a conflict between North and South Korea from 1950 to 1953, highlighting issues of international relations and warfare.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="U.S. War in Afghanistan">
+  <data key="d0">U.S. War in Afghanistan</data>
+  <data key="d1">event</data>
+  <data key="d2">The U.S. War in Afghanistan began in 2001 and represents a significant military engagement in the context of global conflict studies.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Causes of War">
+  <data key="d0">Causes of War</data>
+  <data key="d1">category</data>
+  <data key="d2">Causes of War is a suggested reading material that explores the underlying factors leading to warfare, authored by Jack S. Levy and William R. Thompson.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="What Do We Know about War?">
+  <data key="d0">What Do We Know about War?</data>
+  <data key="d1">category</data>
+  <data key="d2">What Do We Know about War? is an edited volume providing insights into the academic understanding of war, edited by John A. Vasquez.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Why Nations Go to War">
+  <data key="d0">Why Nations Go to War</data>
+  <data key="d1">category</data>
+  <data key="d2">Why Nations Go to War is a book by John George Stoessinger discussing the motivations behind warfare and the decisions of nations.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Understanding Global Conflict">
+  <data key="d0">Understanding Global Conflict</data>
+  <data key="d1">event</data>
+  <data key="d2">Understanding Global Conflict is a course offered during the ISS that explores the historical and theoretical frameworks surrounding interstate war and conflict.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Human Aggression">
+  <data key="d0">Human Aggression</data>
+  <data key="d1">category</data>
+  <data key="d2">Human Aggression is a topic discussed in the course that explores psychological explanations for the behavior leading to war.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Psychological Explanations for War">
+  <data key="d0">Psychological Explanations for War</data>
+  <data key="d1">category</data>
+  <data key="d2">Psychological Explanations for War is a theoretical framework examined in the course to understand individual and group decisions in warfare.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Decision-Making">
+  <data key="d0">Decision-Making</data>
+  <data key="d1">category</data>
+  <data key="d2">Decision-Making is a key concept in the course that analyzes how groups influence the decision to engage in war.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Political, Economic, and Demographic Factors">
+  <data key="d0">Political, Economic, and Demographic Factors</data>
+  <data key="d1">category</data>
+  <data key="d2">Political, Economic, and Demographic Factors are discussed in the course to understand the state level influences on the onset of war.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Nationalism">
+  <data key="d0">Nationalism</data>
+  <data key="d1">category</data>
+  <data key="d2">Nationalism is a concept explored in the course that examines its role in internal conflicts and its impact on warfare.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Power Dynamics">
+  <data key="d0">Power Dynamics</data>
+  <data key="d1">category</data>
+  <data key="d2">Power Dynamics is a concept discussed in the course that looks at the international system's influence on states' decisions to go to war.</data>
+  <data key="d3">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="How I Learned to Stop Worrying and Love the Bomb">
+  <data key="d0">How I Learned to Stop Worrying and Love the Bomb</data>
+  <data key="d1">event</data>
+  <data key="d2">How I Learned to Stop Worrying and Love the Bomb is a notable cultural reference, often associated with discussions about nuclear weapons and their implications.</data>
+  <data key="d3">chunk-62890ae24131343499ecd1fab2d5e5ed</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="Wednesday">
+  <data key="d0">Wednesday</data>
+  <data key="d1">category</data>
+  <data key="d2">Wednesday refers to a day of the week, here indicating the date of an event, specifically the in-class final exam.</data>
+  <data key="d3">chunk-62890ae24131343499ecd1fab2d5e5ed</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="24 July">
+  <data key="d0">24 July</data>
+  <data key="d1">geo</data>
+  <data key="d2">24 July is a specific date that marks the occurrence of the in-class final exam.</data>
+  <data key="d3">chunk-62890ae24131343499ecd1fab2d5e5ed</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<node id="In-Class Final Exam">
+  <data key="d0">In-Class Final Exam</data>
+  <data key="d1">event</data>
+  <data key="d2">The in-class final exam is a formal assessment conducted in an educational setting, taking place on a specified date.</data>
+  <data key="d3">chunk-62890ae24131343499ecd1fab2d5e5ed</data>
+  <data key="d4">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d5">1749107312</data>
+</node>
+<edge source="Sungkyunkwan University (SKKU)" target="International Summer Semester (ISS)">
+  <data key="d6">8.0</data>
+  <data key="d7">Sungkyunkwan University (SKKU) hosts the International Summer Semester (ISS), providing a platform for studying global conflict.</data>
+  <data key="d8">academic program,education</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="International Summer Semester (ISS)" target="Ray T. Hartman">
+  <data key="d6">9.0</data>
+  <data key="d7">Prof. Ray T. Hartman teaches the Understanding Global Conflict course as part of the ISS, guiding students in their studies.</data>
+  <data key="d8">academic guidance,teaching</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="International Summer Semester (ISS)" target="World War I">
+  <data key="d6">7.0</data>
+  <data key="d7">The ISS course includes the study of World War I as a significant historical example of conflict.</data>
+  <data key="d8">conflict study,historical analysis</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="International Summer Semester (ISS)" target="Korean War">
+  <data key="d6">7.0</data>
+  <data key="d7">The ISS course examines the Korean War to understand the dynamics of international conflict.</data>
+  <data key="d8">conflict study,historical analysis</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="International Summer Semester (ISS)" target="U.S. War in Afghanistan">
+  <data key="d6">7.0</data>
+  <data key="d7">The ISS course discusses the U.S. War in Afghanistan as part of its curriculum on global conflicts.</data>
+  <data key="d8">conflict study,historical analysis</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="International Summer Semester (ISS)" target="Causes of War">
+  <data key="d6">6.0</data>
+  <data key="d7">The reading material 'Causes of War' is suggested for students in the ISS to understand the factors leading to conflict.</data>
+  <data key="d8">educational resource,reading material</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="International Summer Semester (ISS)" target="What Do We Know about War?">
+  <data key="d6">6.0</data>
+  <data key="d7">'What Do We Know about War?' is a suggested reading for the ISS course, providing insights into warfare understanding.</data>
+  <data key="d8">educational resource,reading material</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="International Summer Semester (ISS)" target="Why Nations Go to War">
+  <data key="d6">6.0</data>
+  <data key="d7">'Why Nations Go to War' is included as suggested reading for the ISS course to explore motivations behind wars.</data>
+  <data key="d8">educational resource,reading material</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Ray T. Hartman" target="Understanding Global Conflict">
+  <data key="d6">9.0</data>
+  <data key="d7">Prof. Ray T. Hartman teaches the Understanding Global Conflict course as part of the ISS, guiding students through complex topics related to warfare.</data>
+  <data key="d8">academic guidance,teaching</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="World War I" target="Understanding Global Conflict">
+  <data key="d6">7.0</data>
+  <data key="d7">The course Understanding Global Conflict includes a detailed examination of World War I as a significant historical example of warfare.</data>
+  <data key="d8">conflict study,historical analysis</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Korean War" target="Understanding Global Conflict">
+  <data key="d6">7.0</data>
+  <data key="d7">The course discusses the Korean War to illustrate the dynamics of international conflict and its implications for modern warfare.</data>
+  <data key="d8">conflict study,historical analysis</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="U.S. War in Afghanistan" target="Understanding Global Conflict">
+  <data key="d6">7.0</data>
+  <data key="d7">The U.S. War in Afghanistan is included in the course curriculum to analyze contemporary warfare and its causes.</data>
+  <data key="d8">conflict study,historical analysis</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Causes of War" target="Understanding Global Conflict">
+  <data key="d6">6.0</data>
+  <data key="d7">The reading material 'Causes of War' is suggested for the course to help students understand the underlying factors leading to conflict.</data>
+  <data key="d8">educational resource,reading material</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="What Do We Know about War?" target="Understanding Global Conflict">
+  <data key="d6">6.0</data>
+  <data key="d7">'What Do We Know about War?' is a suggested reading for the course, providing insights into the academic understanding of warfare.</data>
+  <data key="d8">educational resource,reading material</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Why Nations Go to War" target="Understanding Global Conflict">
+  <data key="d6">6.0</data>
+  <data key="d7">'Why Nations Go to War' is included as suggested reading in the course to explore the motivations behind wars.</data>
+  <data key="d8">educational resource,reading material</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Understanding Global Conflict" target="Human Aggression">
+  <data key="d6">7.0</data>
+  <data key="d7">The course examines the topic of Human Aggression to understand psychological factors influencing warfare.</data>
+  <data key="d8">conflict study,psychological analysis</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Understanding Global Conflict" target="Psychological Explanations for War">
+  <data key="d6">7.0</data>
+  <data key="d7">Psychological Explanations for War is a theoretical framework discussed in the course to analyze decision-making in conflict.</data>
+  <data key="d8">conflict study,theoretical framework</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Understanding Global Conflict" target="Decision-Making">
+  <data key="d6">7.0</data>
+  <data key="d7">The course discusses Decision-Making processes to understand how groups influence the decision to engage in war.</data>
+  <data key="d8">conflict study,decision-making</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Understanding Global Conflict" target="Political, Economic, and Demographic Factors">
+  <data key="d6">7.0</data>
+  <data key="d7">The course covers Political, Economic, and Demographic Factors to analyze their impact on the onset of war.</data>
+  <data key="d8">conflict study,state analysis</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Understanding Global Conflict" target="Nationalism">
+  <data key="d6">7.0</data>
+  <data key="d7">Nationalism is explored in the course to understand its role in internal conflicts and its contribution to warfare.</data>
+  <data key="d8">conflict study,ideological analysis</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Understanding Global Conflict" target="Power Dynamics">
+  <data key="d6">7.0</data>
+  <data key="d7">Power Dynamics is a key concept in the course that examines how international relations influence decisions to go to war.</data>
+  <data key="d8">conflict study,international relations</data>
+  <data key="d9">chunk-8c2769a15d6bb5dac866eead654d471c</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="How I Learned to Stop Worrying and Love the Bomb" target="Wednesday">
+  <data key="d6">5.0</data>
+  <data key="d7">The event is referenced in the context of the in-class final exam taking place on a Wednesday.</data>
+  <data key="d8">event context,scheduling</data>
+  <data key="d9">chunk-62890ae24131343499ecd1fab2d5e5ed</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="How I Learned to Stop Worrying and Love the Bomb" target="In-Class Final Exam">
+  <data key="d6">6.0</data>
+  <data key="d7">The event is referenced in the context of the in-class final exam, suggesting that the exam may relate to themes from the cultural reference.</data>
+  <data key="d8">educational relevance,event context</data>
+  <data key="d9">chunk-62890ae24131343499ecd1fab2d5e5ed</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Wednesday" target="24 July">
+  <data key="d6">6.0</data>
+  <data key="d7">Wednesday is the day of the week corresponding to the date 24 July, indicating when the exam occurs.</data>
+  <data key="d8">date,weekly cycle</data>
+  <data key="d9">chunk-62890ae24131343499ecd1fab2d5e5ed</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="Wednesday" target="In-Class Final Exam">
+  <data key="d6">7.0</data>
+  <data key="d7">The in-class final exam is scheduled to take place on a Wednesday, indicating the timing of the event.</data>
+  <data key="d8">event scheduling,timing</data>
+  <data key="d9">chunk-62890ae24131343499ecd1fab2d5e5ed</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+<edge source="24 July" target="In-Class Final Exam">
+  <data key="d6">9.0</data>
+  <data key="d7">The in-class final exam is set to occur on 24 July, marking the date of the assessment.</data>
+  <data key="d8">academic scheduling,event date</data>
+  <data key="d9">chunk-62890ae24131343499ecd1fab2d5e5ed</data>
+  <data key="d10">Understanding_Global_Conflict_-_ISS_2024_Syllabus.pdf</data>
+  <data key="d11">1749107312</data>
+</edge>
+</graph></graphml>

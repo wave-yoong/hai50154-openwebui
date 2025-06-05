@@ -1,1 +1,7 @@
 open-webui
+beautifulsoup4
+ipykernel
+lightrag-hku
+markdownify
+stealth-requests
+tqdm
